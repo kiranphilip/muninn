@@ -24,3 +24,4 @@ An Integrated Web-based Dashboard for Threat Analysis
 12. Real-time malware campaign tracking – AlienVault OTX
 13. Threat Attribution – MITRE ATT&CK Kibana Dashboard
 
+![alt text](https://github.com/kiranphilip/muninn/images/muninn_architecture.png "Muninn Architecture")
