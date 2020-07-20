@@ -15,11 +15,11 @@ An Integrated Web-based Dashboard for Threat Analysis
 10. Alerting service – Elastalert
 11. Threat analysis –
 
-    a.VirusTotal API
+    a. VirusTotal API
 
-    b.Shodan API
+    b. Shodan API
 
-    c.Whois information – ipdata.co
+    c. Whois information – ipdata.co
 
 12. Real-time malware campaign tracking – AlienVault OTX
 13. Threat Attribution – MITRE ATT&CK Kibana Dashboard
